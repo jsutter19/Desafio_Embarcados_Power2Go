@@ -1,6 +1,7 @@
 # _Desafio Embarcados_
 
 SDK-IDF: v5.3.1
+
 Este projeto foi desenvolvido utilizando a extensão ESP-IDF no Visual Studio Code.
 
 ## Para utilizar o projeto
