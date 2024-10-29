@@ -11,6 +11,7 @@ Este projeto foi desenvolvido utilizando a extensão ESP-IDF no Visual Studio Co
 Este projeto foi executado utilizando:
 - Placa ESP32 DEVKIT V1;
 - Placa DHT22;
+- Fita de Led WS2812;
 - Micro Switch.
 
 ### Extensão ESP-IDF no VS Code
